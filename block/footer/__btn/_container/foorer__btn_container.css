@@ -1,0 +1,17 @@
+.footer__btn_container{
+    margin-top: 2.23vw;
+    margin-right: 9.5vw;
+    text-align: right;
+    
+  }
+
+  @media screen and (max-width: 500px) {
+   
+    
+    .footer__btn_container{
+        margin-right: 0;
+        text-align: center;
+      }
+    
+    
+  }

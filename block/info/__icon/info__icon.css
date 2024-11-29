@@ -1,0 +1,12 @@
+.info__icon{
+    margin-right: 20px;
+    max-width: 2.44vw;
+
+  }
+
+  @media screen and (max-width:500px) {
+    
+  .info__icon{
+    max-width: 6.44vw;
+  }
+  }

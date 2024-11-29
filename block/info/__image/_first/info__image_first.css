@@ -1,0 +1,11 @@
+.info__image_first{
+    width: 32.395vw;
+    max-width: 32.39vw;
+    height: 37.65vw;
+  }
+
+  @media screen and (max-width:500px) {
+    .info__image_first{
+        display: none;
+      }
+  }

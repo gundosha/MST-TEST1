@@ -1,0 +1,15 @@
+.footer__links_sn_container{
+    margin-bottom: 3.28vw;
+    display: flex;
+    gap: 1.6vw;
+  }
+
+
+  @media screen and (max-width: 500px) {
+   
+    .footer__links_sn_container{
+        gap: 10.6vw;
+      }
+
+    
+  }

@@ -1,0 +1,11 @@
+.info__text{
+    font-size: 1.25vw;
+  }
+
+
+  @media screen and (max-width:500px) {
+    
+    .info__text{
+        font-size: 3.25vw;
+      }
+    }

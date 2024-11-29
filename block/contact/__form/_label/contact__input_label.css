@@ -1,0 +1,13 @@
+.contact__input_label{
+    color:#55565a;
+    font-family: "Arial-Regular", sans-serif;
+    font-size: 0.98vw;
+    line-height: 130%;
+    font-weight: 400;
+  }
+
+  @media screen and (max-width: 500px) {
+    .contact__input_label{
+        font-size: 2vw;
+      }
+  }

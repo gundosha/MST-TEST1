@@ -1,0 +1,9 @@
+.modal__text{
+    color: white;
+    text-align: start;
+    margin: 0 20px 15px 20px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 12px;
+    margin-top: 32px;
+}

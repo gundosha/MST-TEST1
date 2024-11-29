@@ -1,0 +1,16 @@
+.price {
+    display: flex;
+    justify-content: space-between;
+    color: white;   
+    background-color: rgba(34, 34, 34, 1);
+    text-align: left;
+  }
+
+@media screen and (max-width:500px){
+  
+    .price{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+}

@@ -1,0 +1,18 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 60.26%;
+    background-color:rgba(34, 34, 34, 1);
+    color: white;
+    padding: 0;
+    z-index: 1000;
+    transition: background-color 0.3s;
+    
+}
+
+@media screen and (max-width:500px){
+    .header{
+      position:relative;
+      width: 100%;
+    }
+}

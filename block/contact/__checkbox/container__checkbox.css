@@ -1,0 +1,11 @@
+.container__checkbox{
+    margin-bottom: 26px;
+    display: flex;
+    align-items: center;
+  }
+
+  @media screen and (max-width:500px){
+    .container__checkbox{
+        margin-bottom: 18px;
+      }
+  }

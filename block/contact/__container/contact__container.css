@@ -1,0 +1,26 @@
+.contact__container{
+  position: relative;
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #d5c9be;
+  border-width: 2px;
+  max-width: 83.177vw;
+  max-height: 32.07vw;
+  background-image: url('/public/image/fasad-Photoroom.png');
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media screen and (max-width: 1600px) {
+  .contact__container{
+    max-height: max-content;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .contact__container{
+    background-size: cover;
+  }
+}

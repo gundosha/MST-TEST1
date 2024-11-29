@@ -1,0 +1,15 @@
+.footer__nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    height: 5.2vw;
+    border-bottom: solid;
+    border-top: solid;
+  }
+
+  @media screen and (max-width: 500px) {
+    .footer__nav{
+        display: none;
+      }    
+  }

@@ -1,0 +1,19 @@
+.price__list_el{
+    max-height: 1.9vw;
+    display: flex;
+    align-items: center;
+    max-width: 23.54vw;
+    background-color: rgba(40, 40, 41, 0.7);
+    white-space: nowrap;
+    max-width: min-content;
+}
+.price__list_el:not(:first-child){
+    margin-top: 1.82vw;
+    
+}
+
+@media screen and (max-width:500px) {
+    .price__list_el:not(:first-child) {
+        margin-top: 4.82vw;
+      }
+}

@@ -1,0 +1,23 @@
+.info__item {
+    display: flex;
+    align-items: self-start;
+    width: 28.54vw;
+  }
+
+  .info__item:not(:first-of-type){
+    margin-top: 2.09vw;
+
+  }
+
+  .info__item:not(:last-of-type){
+    padding-bottom: 2.09vw;
+    border-bottom: solid grey;
+
+  }
+
+  @media screen and (max-width:500px){
+
+    .info__item{
+      width: 70.5vw;
+    }
+}  

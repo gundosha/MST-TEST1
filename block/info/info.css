@@ -1,0 +1,12 @@
+.info{
+    color: white;
+    background-color: rgba(34, 34, 34, 1);
+    max-height: 37.65vw;
+  }
+
+  @media screen and (max-width: 1600px) {
+    
+    .info{
+      max-height: max-content;
+    }
+  }

@@ -1,0 +1,10 @@
+.price__list_image{
+    width: 2.03vw;
+    margin-right: 0.88vw;
+  }
+
+@media screen and (max-width:500px) {
+    .price__list_image{
+        width: 5vw;
+      }
+}

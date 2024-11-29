@@ -1,0 +1,12 @@
+.price__text{
+    font-size: 1.25vw;
+    line-height: 110%;
+    font-family: "Arial-Regular", sans-serif;
+    font-weight: 400;
+}
+
+@media screen and (max-width:500px){
+    .price__text{
+      font-size: 2.25vw
+    }
+}

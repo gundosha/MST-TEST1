@@ -1,0 +1,17 @@
+.footer__link_image{
+    width: 1.6vw;
+  }
+  
+  .footer__link_image:hover{
+    opacity: 0.5;
+  }
+  
+
+  @media screen and (max-width: 500px) {
+   
+    
+    .footer__link_image {
+        width: 5.6vw;
+    }
+    
+  }

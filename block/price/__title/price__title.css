@@ -1,0 +1,13 @@
+.price__title{
+    font-size: 4.16vw;
+    letter-spacing: 0;
+    max-width: 27.9vw;  /*537px;*/
+    font-family: 'Prata', Arial, sans-serif;
+
+  }
+
+  @media screen and (max-width:500px){
+    .price__title{
+      max-width: 100%;
+    }
+}

@@ -1,0 +1,9 @@
+.header__image_burger{
+    display: none;
+}
+
+@media screen and (max-width:500px) {
+    .header__image_burger{
+        display: block;
+    }
+}

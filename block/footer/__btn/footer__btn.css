@@ -1,0 +1,28 @@
+.footer__btn{
+    width: 9.375vw;
+    height: 4.06vw;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 1.97vw;
+    font-family: "Arial-Italic", sans-serif;
+    font-size: 1.04vw;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    font-weight: 400;
+    font-style: italic;
+    border:none;
+    transition: transform 0.3s ease-in-out;
+}
+
+
+  @media screen and (max-width: 500px) {
+   
+    
+    .footer__btn{
+        width: 50.375vw;
+        height: 8.06vw;
+        font-size: 2.04vw;
+      }
+    
+  }

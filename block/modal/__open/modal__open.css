@@ -1,0 +1,4 @@
+.modal__open{
+    opacity: 1;
+    pointer-events: all;
+}

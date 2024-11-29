@@ -1,0 +1,16 @@
+.info__image_second{
+    width: 30.677vw;
+    max-width: 30.67vw;
+    height: 37.65vw;
+  }
+
+  @media screen and (max-width:500px) {
+    
+    .info__image_second{
+        max-width: 100%;
+        width: 70%;
+        height: 100%;
+        margin-top: 30px;
+      }
+    
+    }

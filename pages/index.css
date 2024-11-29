@@ -1,0 +1,114 @@
+/* ALL */
+
+@import url(../block/all/all.css);
+
+
+/* BLOCK */
+
+@import url(../block/block/block.css);
+
+
+/* BODY */
+
+@import url(../block/body/body.css);
+
+
+/* BTN */
+
+@import url(../block/btn/btn.css);
+
+/* CONTACT */
+
+@import url(../block/contact/__btn/contact__btn.css);
+@import url(../block/contact/__container/contact__container.css);
+@import url(../block/contact/__content/contact__content.css);
+@import url(../block/contact/__form/contact__form.css);
+@import url(../block/contact/__form/_label/contact__input_label.css);
+@import url(../block/contact/__input/contact__input.css);
+@import url(../block/contact/__input/_chkbox/contact__input_chkbox.css);
+@import url(../block/contact/__photo/contact__photo.css);
+@import url(../block/contact/__title/contact__title.css);
+@import url(../block/contact/contact.css);
+@import url(../block/contact/__checkbox/container__checkbox.css);
+
+
+
+/* FOOTER */
+
+@import url(../block/footer/__btn/footer__btn.css);
+@import url(../block/footer/__btn/_container/foorer__btn_container.css);
+@import url(../block/footer/__container/footer__container.css);
+@import url(../block/footer/__container/__items/footer__items.css);
+@import url(../block/footer/__link/footer__link.css);
+@import url(../block/footer/__links/_sn/footer__links_sn.css);
+
+@import url(../block/footer/__links/_sn/_container/footer__links_sn_container.css);
+@import url(../block/footer/__link/_sn/footer_link_sn.css);
+@import url(../block/footer/__link/_image/footer__link_image.css);
+@import url(../block/footer/__logo/footer__logo.css);
+@import url(../block/footer/__logo/_container/footer__logo_container.css);
+@import url(../block/footer/__nav/footer__nav.css);
+@import url(../block/footer/__text-links/footer__text-links.css);
+@import url(../block/footer/__text/footer__text.css);
+@import url(../block/footer/footer.css);
+
+/* HEADER */
+
+@import url(../block/header/__container/header__container.css);
+@import url(../block/header/__image/_burger/header__image_burger.css);
+@import url(../block/header/__link/header__link.css);
+@import url(../block/header/__nav/header__nav.css);
+@import url(../block/header/header.css);
+
+/* INFO */
+
+@import url(../block/info/__btn/info__btn.css);
+@import url(../block/info/__container/info__container.css);
+@import url(../block/info/__container/_text/info__container_text.css);
+@import url(../block/info/__icon/info__icon.css);
+@import url(../block/info/__image/_first/info__image_first.css);
+@import url(../block/info/__image/_second/info__image_second.css);
+@import url(../block/info/__item/info__item.css);
+@import url(../block/info/__text/info__text.css);
+@import url(../block/info/info.css);
+
+/* LOGO */
+
+@import url(../block/logo/logo.css);
+
+/* MODAL */
+
+@import url(../block/modal/__btn/_close/modal__btn_close.css);
+@import url(../block/modal/__text/modal__text.css);
+@import url(../block/modal/__title/_link/modal__title_link.css);
+@import url(../block/modal/__title/modal__title.css);
+@import url(../block/modal/modal.css);
+@import url(../block/modal/__open/modal__open.css);
+
+
+/* PRICE */
+
+@import url(../block/price/__btn/price__btn.css);
+@import url(../block/price/__container/price__container.css);
+@import url(../block/price/__img/price__img.css);
+@import url(../block/price/__list/_el/price__list_el.css);
+@import url(../block/price/__list/_image/price__list_image.css);
+@import url(../block/price/__list/price__list.css);
+@import url(../block/price/__subtitle/price__subtitle.css);
+@import url(../block/price/__text/_container/price__text_container.css);
+@import url(../block/price/__text/_first/price__text_first.css);
+@import url(../block/price/__text/_number/price__text_number.css);
+@import url(../block/price/__text/_second/price__text_second.css);
+@import url(../block/price/__text/price__text.css);
+@import url(../block/price/__title/price__title.css);
+@import url(../block/price/price.css);
+
+
+/* fonts */
+
+@font-face {
+    font-family: 'Prata'; /* Имя семейства шрифта */
+    src: url('/public/fonts/Prata/Prata-Regular.ttf') format('truetype'); /* Путь к файлу шрифта */
+}
+  
+
