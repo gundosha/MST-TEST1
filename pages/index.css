@@ -1,8 +1,3 @@
-@font-face {
-    font-family: 'Prata'; /* Имя семейства шрифта */
-    src: url('/public/fonts/Prata/Prata-Regular.ttf') format('truetype'); /* Путь к файлу шрифта */
-}
-
 @import url(../block/all/all.css);
 
 
@@ -109,5 +104,8 @@
 
 /* fonts */
 
-  
+@font-face {
+    font-family: 'Prata'; /* Имя семейства шрифта */
+    src: url('../public/fonts/Prata/Prata-Regular.ttf') format('truetype'); /* Путь к файлу шрифта */
+}
 
